@@ -1,1 +1,6 @@
 # A simple command to make a neko (cat) say something...
+
+## ::::: UPDATES :::::
+- November 10, 2020
+    - Fork source codes from <i>nekoman_speak</i>
+        - Due to this, the development for nekoman_speak will be halted and continued here...
